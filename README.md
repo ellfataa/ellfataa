@@ -3,7 +3,6 @@
 <div align="center">
   <a href="https://github.com/ellfataa"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=435&lines=A+simple+but+nice;Software+Developer;Front-End+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </div>
-
 ## 🧑‍💻 About Me
 
 > Exploring the beauty of algorithms and the magic of coding
@@ -15,18 +14,18 @@ I'm a passionate software developer dedicated to crafting clean, efficient solut
 
 ## ⚡ Stats & Activity
 
-<div align="center">
+<div align="start">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ellfataa&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180em" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ellfataa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" alt="Luthfi's GitHub Stats"/>
+<div align="start">
+  <img src="https://github-readme-stats.vercel.app/api?username=ellfataa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" alt="Luthfi's GitHub Stats"/> <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellfataa&layout=compact&theme=tokyonight&hide_border=true" height="180em" alt="Top Languages"/>
 </div>
 
 ## 🛠️ My Tech Stack
 
-<div align="center">
+<div align="start">
 
 ### Languages
   
@@ -55,7 +54,7 @@ I'm a passionate software developer dedicated to crafting clean, efficient solut
 
 ## 🤝 Connect with Me
 
-<div align="center">
+<div align="start">
   <a href="https://linkedin.com/in/luthfiemillulfata">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
