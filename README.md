@@ -79,7 +79,7 @@ I'm a passionate software developer and data analyst dedicated to efficient solu
 ## 🤝 Connect with Me
 
 <div align="start">
-  <a href="https://linkedin.com/in/luthfiemillulfata">
+  <a href="https://linkedin.com/in/luthfi-emillulfata">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:luthfi.efata@gmail.com">
