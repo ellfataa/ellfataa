@@ -86,15 +86,3 @@ I'm a passionate software developer and data analyst dedicated to efficient solu
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ellfataa&style=for-the-badge&color=6A5ACD" alt="Profile Views"/>
-</div>
-
-<div align="center">
-  
-**"Data is the new oil, but insights are the refined fuel that powers intelligent decisions"** 🚀
-  
-</div>
