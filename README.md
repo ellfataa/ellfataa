@@ -1,7 +1,7 @@
 # Hello, Guyss! I'm Luthfi Emillulfata <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div align="center">
-  <a href="https://github.com/ellfataa"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=500&lines=A+simple+but+nice;Web+Developer (Frontend Enthusiast);Data+Analyst+Enthusiast;UI%2FUX+Enthusiast;Growing+Steps" alt="Typing SVG" /></a>
+  <a href="https://github.com/ellfataa"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=500&lines=A+simple+but+nice;Web+Developer+(Frontend+Enthusiast);Data+Analyst+Enthusiast;UI%2FUX+Enthusiast;Growing+Steps" alt="Typing SVG" /></a>
 </div>
 
 ## 🧑‍💻 About Me
