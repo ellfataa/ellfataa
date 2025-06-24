@@ -8,7 +8,7 @@
 
 > Exploring the beauty of algorithms, the magic of coding, and the insights hidden in data
 
-I'm a passionate software developer and data analyst dedicated to efficient solutions. My journey spans from creating beautiful user interfaces to uncovering meaningful patterns in data through machine learning and statistical analysis. When I'm not coding or analyzing datasets, you'll find me exploring new technologies or sharing knowledge.
+I'm a passionate web developer (Frontend Enthusiast) and data analyst dedicated to efficient solutions. My journey spans from creating beautiful user interfaces to uncovering meaningful patterns in data through machine learning and statistical analysis. When I'm not coding or analyzing datasets, you'll find me exploring new technologies or sharing knowledge.
 
 - 🔥 Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
 
